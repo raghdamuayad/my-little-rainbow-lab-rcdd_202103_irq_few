@@ -14,16 +14,14 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 
 
-  
+
   height: 500px;
-  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); 
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
   text-align:center;
   margin:10px;
   color:#ffffff;
   font-size:140px;
-  
+
 
 
 }
-
-
