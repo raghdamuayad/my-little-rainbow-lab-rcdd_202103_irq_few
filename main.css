@@ -2,7 +2,7 @@ red_div {
   id : red;
   border: 20px solid #080;
 }
-div {
+#div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
